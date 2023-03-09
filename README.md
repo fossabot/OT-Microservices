@@ -6,6 +6,8 @@
 A loaded microservice applications for doing different kinds of POC. This is a sample Employee System which is designed to understand the microservices nature and behaviour.
 
 ## Purpose
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshubh2626%2FOT-Microservices.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshubh2626%2FOT-Microservices?ref=badge_shield)
+
 
 The purpose of creating this application is to provide an individual, a holistic idea of microservice architecture, it's working, and its setup.
 
@@ -72,3 +74,7 @@ Please see our [CHNANGELOG.md](./CHNANGELOG.md) for details.
 If you have any suggestion or query. Contact us at
 
 opensource@opstree.com
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshubh2626%2FOT-Microservices.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshubh2626%2FOT-Microservices?ref=badge_large)
